@@ -15,10 +15,10 @@
         <meta name="salesforce-logout-handler" content="onLogout">
         
         <link href="https://nb-empathetic-bear-developer-edition.na150.force.com/lwr/servlet/servlet.loginwidgetcontroller?type=css" rel="stylesheet" type="text/css" /> 
-        <script src="hhttps://nb-empathetic-bear-developer-edition.na150.force.com//lwr/servlet/servlet.loginwidgetcontroller?type=javascript_widget" async defer></script> 
+        <script src="https://nb-empathetic-bear-developer-edition.na150.force.com//lwr/servlet/servlet.loginwidgetcontroller?type=javascript_widget" async defer></script> 
 
     </head>
-    
+
     <body>
         <h2>Hello Heroku!</h2>
     </body>
