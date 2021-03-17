@@ -9,7 +9,7 @@
         <meta name="salesforce-community" content="https://nb-empathetic-bear-developer-edition.na150.force.com/lwr">
         <meta name="salesforce-client-id" content="3MVG9kBt168mda__bh5.zub0rdb9M2S8vapqUNyJ06MqYXMNSdRDS1wzxACVQmiTJ_wMAxx8ykKGnRlICcnJr">
         <meta name="salesforce-redirect-uri" content="https://still-island-68908.herokuapp.com/_callback.html">
-        <meta name="salesforce-mode" content="inline">
+        <meta name="salesforce-mode" content="modal">
         <meta name="salesforce-target" content="#sign-in-link">
         <meta name="salesforce-save-access-token" content="true">
         <meta name="salesforce-login-handler" content="onLogin">
