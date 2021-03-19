@@ -14,7 +14,7 @@
         <meta name="salesforce-client-id" content="3MVG9kBt168mda__bh5.zub0rdb9M2S8vapqUNyJ06MqYXMNSdRDS1wzxACVQmiTJ_wMAxx8ykKGnRlICcnJr">
         <meta name="salesforce-redirect-uri" content="https://still-island-68908.herokuapp.com/_callback.html">
         <!-- <meta name="salesforce-redirect-uri" content="http://localhost:8080/_callback.html"> -->
-        <meta name="salesforce-mode" content="inline">
+        <meta name="salesforce-mode" content="popup">
         <meta name="salesforce-target" content="#sign-in-link">
         <meta name="salesforce-save-access-token" content="true">
         <meta name="salesforce-login-handler" content="onLogin">
