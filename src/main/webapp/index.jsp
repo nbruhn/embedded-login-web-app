@@ -9,7 +9,9 @@
         <!-- LWR Community -->
         <!-- <meta name="salesforce-community" content="https://nb-empathetic-bear-developer-edition.na150.force.com/lwr"> -->
         <!-- BYO Community -->
-        <meta name="salesforce-community" content="https://nb-empathetic-bear-developer-edition.na150.force.com/byo">
+        <!-- <meta name="salesforce-community" content="https://nb-empathetic-bear-developer-edition.na150.force.com/byo"> -->
+         <!-- Aloha Community -->
+        <meta name="salesforce-community" content="https://nb-empathetic-bear-developer-edition.na150.force.com/aloha">
 
         <meta name="salesforce-client-id" content="3MVG9kBt168mda__bh5.zub0rdb9M2S8vapqUNyJ06MqYXMNSdRDS1wzxACVQmiTJ_wMAxx8ykKGnRlICcnJr">
         <meta name="salesforce-redirect-uri" content="https://still-island-68908.herokuapp.com/_callback.html">
@@ -25,7 +27,9 @@
         <!-- LWR Community -->
         <!-- <script src="https://nb-empathetic-bear-developer-edition.na150.force.com/lwr/servlet/servlet.loginwidgetcontroller?type=javascript_widget" async defer></script>  -->
         <!-- BYO Community -->
-        <script src="https://nb-empathetic-bear-developer-edition.na150.force.com/byo/servlet/servlet.loginwidgetcontroller?type=javascript_widget" async defer></script> 
+        <script src="https://nb-empathetic-bear-developer-edition.na150.force.com/byo/servlet/servlet.loginwidgetcontroller?type=javascript_widget" async defer></script>
+        <!-- Aloha Community -->
+        <script src="https://nb-empathetic-bear-developer-edition.na150.force.com/aloha/servlet/servlet.loginwidgetcontroller?type=javascript_widget" async defer></script>
 
     </head>
 
