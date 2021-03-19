@@ -22,6 +22,8 @@
         <meta name="salesforce-login-handler" content="onLogin">
         <meta name="salesforce-logout-handler" content="onLogout">
         <meta name="salesforce-use-min-js" content="false">
+        <meta name="salesforce-mask-redirects" content="false">
+
         
         <link href="embeddedLoginCss.css" rel="stylesheet" type="text/css" /> 
         <!-- LWR Community -->
